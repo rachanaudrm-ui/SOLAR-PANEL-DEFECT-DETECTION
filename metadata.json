@@ -1,0 +1,7 @@
+{
+  "name": "Solar Panel Defect Detection System",
+  "description": "An AI-powered industrial maintenance tool that detects cracks, hotspots, and other defects in solar panels using computer vision.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
